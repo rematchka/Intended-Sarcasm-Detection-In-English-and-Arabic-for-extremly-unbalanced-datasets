@@ -13,7 +13,8 @@ presence of extremely unbalanced datasets, 2) Investigating the importance of di
 in Bert-Base models. 
 
 [Publised paper](https://aclanthology.org/2022.semeval-1.126/).
-[Presentation slides, Poster and Video]([https://aclanthology.org/2022.semeval-1.126/](https://underline.io/events/325/sessions/11192/lecture/55786-reamtchka-at-semeval-2022-task-6-investigating-the-effect-of-different-loss-functions-for-sarcasm-detection-for-unbalanced-datasets).
+
+[Presentation slides, Poster and Video](https://underline.io/events/325/sessions/11192/lecture/55786-reamtchka-at-semeval-2022-task-6-investigating-the-effect-of-different-loss-functions-for-sarcasm-detection-for-unbalanced-datasets).
 
 
 If you find code useful, please consider citing
@@ -37,8 +38,10 @@ If you find code useful, please consider citing
 1. `Different model results for Task A En & Ar on official test-set`
 ![Alt text](Results/TaskA_En.png?raw=true "Title")
 ![Alt text](Results/TaskA_Ar.png?raw=true "Title")
+
 2. `Different model results for Task B En  on official test-set`
 ![Alt text](Results/Task_B.png?raw=true "Title")
+
 3. `Different model results for Task C En & Ar on official test-set`
 ![Alt text](Results/Task_C.png?raw=true "Title")
 
