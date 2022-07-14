@@ -17,7 +17,7 @@ in Bert-Base models.
 [Presentation slides, Poster and Video](https://underline.io/events/325/sessions/11192/lecture/55786-reamtchka-at-semeval-2022-task-6-investigating-the-effect-of-different-loss-functions-for-sarcasm-detection-for-unbalanced-datasets).
 
 
-If you find code useful, please consider citing
+If you find code/work useful, please consider citing
 ```
 @inproceedings{abdel-salam-2022-reamtchka,
     title = "reamtchka at {S}em{E}val-2022 Task 6: Investigating the effect of different loss functions for Sarcasm detection for unbalanced datasets",
