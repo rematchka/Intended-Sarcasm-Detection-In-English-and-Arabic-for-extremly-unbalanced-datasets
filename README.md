@@ -18,6 +18,8 @@ in Bert-Base models.
 
 [Presentation slides, Poster and Video](https://underline.io/events/325/sessions/11192/lecture/55786-reamtchka-at-semeval-2022-task-6-investigating-the-effect-of-different-loss-functions-for-sarcasm-detection-for-unbalanced-datasets).
 
+[Dataset](https://github.com/iabufarha/iSarcasmEval).
+
 
 If you find code/work useful, please consider citing
 ```
